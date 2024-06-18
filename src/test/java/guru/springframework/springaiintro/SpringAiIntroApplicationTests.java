@@ -8,6 +8,8 @@ class SpringAiIntroApplicationTests {
 
     @Test
     void contextLoads() {
+
+
     }
 
 }
